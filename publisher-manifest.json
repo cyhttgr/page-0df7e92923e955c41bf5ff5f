@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "bbde8be6a346ddd1116c5d8c",
+  "owner": "cyhttgr",
+  "repo": "page-0df7e92923e955c41bf5ff5f",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0df7e92923e955c41bf5ff5f",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "62ea480bc67f9a49f930cb5473172003be2cb335da4209bc8d702cbe35773c7a",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐为您提供优质VPN加速器服务，包括机场订阅、客户端下载和官方下载。选择适合您的套餐，畅享极速网络加速。",
+          "AI_DESCRIPTION": "机场推荐为您提供优质VPN加速器服务，包括机场订阅、客户端下载和官方下载。选择适合您的套餐，畅享极速网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#f5f5f5;color:#333;margin:0;padding:0;line-height:1.6}\n  .main{max-width:1200px;margin:0 auto;padding:20px}\n  h1{color:#8a2be2;font-size:2.8rem;margin-bottom:1rem}\n  h2{color:#8a2be2;font-size:2rem;margin:2rem 0 1rem}\n  h3{color:#666;font-size:1.4rem;margin:1.5rem 0 .5rem}\n  .plan-card{background:#fff;border-radius:12px;padding:2rem;box-shadow:0 4px 12px rgba(0,0,0,.08);margin-bottom:2rem;transition:all .3s}\n  .plan-card.featured{border:3px solid #8a2be2;box-shadow:0 8px 24px rgba(138,42,226,.15)}\n  .plan-name{font-size:1.6rem;margin-bottom:.5rem}\n  .price{font-size:1.8rem;font-weight:700;color:#8a2be2;margin:1rem 0}\n  .annual{font-size:1.1rem;color:#666;margin-bottom:1rem}\n  ul{list-style:none;padding:0}\n  li{margin:8px 0;padding-left:1.2rem;position:relative}\n  li:before{content:\"✓\";color:#8a2be2;margin-right:.6rem;font-size:1.3rem}\n  .faq-summary{font-weight:600;cursor:pointer;padding:1rem;background:#fff;border-radius:8px;margin-bottom:.5rem}\n  .faq-content{padding:1rem;background:#f9f9f9;border-radius:8px;margin-bottom:1rem;display:none}\n  @media(max-width:768px){.main{padding:15px}.h1{font-size:2.2rem}}\n</style>\n\n\n<main class=\"main\">\n<h1>机场推荐</h1>\n<p>机场推荐是专为追求稳定加速的您打造的VPN加速器平台，提供优质机场订阅链接、客户端下载及官方直达服务，让您的网络畅行无阻。</p>\n\n<section id=\"plans\">\n<h2>精选套餐 畅选其一</h2>\n<div class=\"plan-card\">\n<div class=\"plan-name\">基础版</div>\n<div class=\"price\">¥15/月</div>\n<div class=\"annual\">按年付仅需 ¥150/年</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"plan-card featured\">\n<div class=\"plan-name\">旗舰版</div>\n<div class=\"price\">¥35/月</div>\n<div class=\"annual\">按年付仅需 ¥350/年</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"plan-card\">\n<div class=\"plan-name\">团队版</div>\n<div class=\"price\">¥85/月</div>\n<div class=\"annual\">按年付仅需 ¥850/年</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</section>\n\n<section id=\"clients\">\n<h2>客户端选择</h2>\n<p>无论您使用 Windows、macOS、Android 还是 iOS 设备，我们均提供官方客户端下载，支持一键导入订阅链接，即刻连接高速节点。</p>\n<h3>推荐客户端</h3>\n<ul>\n<li>Windows 客户端（EXE 安装包）</li>\n<li>macOS 客户端（DMG 安装包）</li>\n<li>Android 客户端（APK 下载）</li>\n<li>iOS 客户端（App Store 搜索 机场推荐）</li>\n</ul>\n</section>\n\n<section id=\"scenarios\">\n<h2>使用场景</h2>\n<h3>日常办公加速</h3>\n<p>稳定低延迟连接，畅享远程办公与在线会议。</p>\n<h3>游戏加速</h3>\n<p>IPLC 专线优化，降低 ping 值，赢在起跑线。</p>\n<h3>流媒体解锁</h3>\n<p>原生节点解锁 Netflix、YouTube、Disney+ 等平台内容。</p>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题 FAQ</h2>\n<details>\n<summary class=\"faq-summary\">如何开始使用机场推荐？</summary>\n<div class=\"faq-content\">访问官网，选择套餐支付，即可获得订阅链接并下载客户端，3 分钟完成激活。</div>\n</details>\n<details>\n<summary class=\"faq-summary\">基础版套餐适合哪些用户？</summary>\n<div class=\"faq-content\">适合个人用户、学生党或轻度使用，100GB 流量足够日常浏览与小流量加速需求。</div>\n</details>\n<details>\n<summary class=\"faq-summary\">如何下载客户端？</summary>\n<div class=\"faq-content\">在官网客户端下载页面点击对应系统按钮，即可下载官方安装包，安装后导入订阅链接即可使用。</div>\n</details>\n<details>\n<summary class=\"faq-summary\">支持哪些设备同时在线？</summary>\n<div class=\"faq-content\">基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台，具体以套餐为准。</div>\n</details>\n<details>\n<summary class=\"faq-summary\">年付优惠如何享受？</summary>\n<div class=\"faq-content\">选择年付套餐，价格直接显示在页面，支付成功后立即生效，无额外手续费。</div>\n</details>\n<details>\n<summary class=\"faq-summary\">售后服务如何？</summary>\n<div class=\"faq-content\">旗舰版及以上套餐提供 7x24 优先工单，团队版拥有专属客户经理，5 分钟内响应。</div>\n</details>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "02b6ce6e797419127e0cc3e6e53998e286012e07ac398e5b5b3294e3fd43561c",
+          "seo": {
+            "title": "机场推荐 - 机场订阅 VPN加速器 客户端下载 官网",
+            "keywords": "机场推荐,机场订阅,VPN加速器,客户端下载,加速器官网,机场推荐官网",
+            "description": "机场推荐为您提供优质VPN加速器服务，包括机场订阅、客户端下载和官方下载。选择适合您的套餐，畅享极速网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jbdgt.cn",
+    "host": "p-80a488adfb.jbdgt.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "719ab58346ed02342eeb2f64c822ffada1cdae305b59ee4513096aa6a66a7f2f",
+    "sitemap.xml": "b1531fcd85de962cf391ce7e89b534d4f7609686e4c5ac5190ba6585f71e25c9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "606aca6b27547e47fab4e7c010e00d490e30714db15d71409058a2a91bdb2923",
+    "robots.txt": "e064c1b8d167aef06a5b047def013414cbd7b1af3fe6a2804ac0cc2950bee591",
+    "55eac3d3ba50e4dd9e0771ac80c872f3.txt": "b305b8e02b3bc43c9d6b5a0bbc6ac514a7c9e6b1120e489f822d37899a143fd6"
+  },
+  "revision": "cfb4f44d1a18c1d263a4f30bf907a21dd9fbdfae6893e7fb876a818d95a510e9"
+}
